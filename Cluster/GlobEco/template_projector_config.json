@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "GlobEco",
+      "tensorShape": [
+        3100,
+        16
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/SeanXML/DeTweet/main/Cluster/GlobEco/vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/SeanXML/DeTweet/main/Cluster/GlobEco/meta.tsv"
+    }
+  ]
+}
